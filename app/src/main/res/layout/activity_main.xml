@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/Image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -60,8 +60,8 @@
 
         <Button
             android:id="@+id/ExitButton"
-            android:layout_width="103dp"
-            android:layout_height="48dp"
+            android:layout_width="156dp"
+            android:layout_height="51dp"
             android:layout_marginBottom="4dp"
             android:backgroundTint="#3F51B5"
             android:text="EXIT"
